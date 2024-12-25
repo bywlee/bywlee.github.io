@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-{% include cv.html %}
+<iframe src="../files/resume.pdf" width="100%" height="600px"></iframe>
 
 <!--Education
 ======
