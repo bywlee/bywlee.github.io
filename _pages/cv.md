@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-<iframe src="../files/resume.pdf" width="100%" height="600px"></iframe>
+<iframe src="../files/cv.pdf" width="100%" height="600px"></iframe>
 
 <!--Education
 ======
